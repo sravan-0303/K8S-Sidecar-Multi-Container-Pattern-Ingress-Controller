@@ -1,6 +1,6 @@
-============================
+
 Kubernetes Practicals: Sidecar Pattern & Ingress Controller
-============================
+
 
 This repository contains two separate Kubernetes practicals:
 
@@ -9,9 +9,9 @@ This repository contains two separate Kubernetes practicals:
 
 ---
 
-============================
+
 1. Sidecar Multi-Container Pattern
-============================
+
 
 Overview:
 Demonstrates the sidecar pattern in Kubernetes where a pod contains multiple containers:
@@ -39,9 +39,8 @@ $ kubectl logs <pod-name> -c <container-name>
 
 ---
 
-============================
+
 2. Ingress Controller
-============================
 
 Overview:
 Demonstrates how to expose Kubernetes services externally using an Ingress Controller.
